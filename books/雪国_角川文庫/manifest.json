@@ -1,0 +1,99 @@
+{
+  "title": "雪国 (角川文庫)",
+  "fmt": "epub",
+  "source_path": "/home/dawnghost/Pyprojects/Wenyi/雪国 (角川文庫) (川端 康成) (z-library.sk, 1lib.sk, z-lib.sk).epub",
+  "source_lang": "ja",
+  "target_lang": "zh",
+  "meta": {
+    "opf_path": "OEBPS/content.opf",
+    "toc_paths": [
+      "OEBPS/toc.ncx"
+    ],
+    "toc_entries": [
+      {
+        "href": "OEBPS/text00002.html",
+        "title": "目次"
+      },
+      {
+        "href": "OEBPS/text00004.html",
+        "title": "雪国"
+      },
+      {
+        "href": "OEBPS/text00007.html",
+        "title": "注釈"
+      },
+      {
+        "href": "OEBPS/text00010.html",
+        "title": "奥付"
+      }
+    ]
+  },
+  "chapters": [
+    {
+      "index": 0,
+      "title": "雪国",
+      "href": "OEBPS/text00000.html",
+      "status": "done"
+    },
+    {
+      "index": 1,
+      "title": "ご利用上の注意",
+      "href": "OEBPS/text00001.html",
+      "status": "done"
+    },
+    {
+      "index": 2,
+      "title": "目次",
+      "href": "OEBPS/text00002.html",
+      "status": "done"
+    },
+    {
+      "index": 3,
+      "title": "雪国",
+      "href": "OEBPS/text00003.html",
+      "status": "done"
+    },
+    {
+      "index": 4,
+      "title": "雪国",
+      "href": "OEBPS/text00004.html",
+      "status": "done"
+    },
+    {
+      "index": 5,
+      "title": "雪国",
+      "href": "OEBPS/text00005.html",
+      "status": "done"
+    },
+    {
+      "index": 6,
+      "title": "雪国",
+      "href": "OEBPS/text00006.html",
+      "status": "done"
+    },
+    {
+      "index": 7,
+      "title": "注釈",
+      "href": "OEBPS/text00007.html",
+      "status": "done"
+    },
+    {
+      "index": 8,
+      "title": "雪国",
+      "href": "OEBPS/text00008.html",
+      "status": "done"
+    },
+    {
+      "index": 9,
+      "title": "雪国",
+      "href": "OEBPS/text00009.html",
+      "status": "done"
+    },
+    {
+      "index": 10,
+      "title": "奥付",
+      "href": "OEBPS/text00010.html",
+      "status": "done"
+    }
+  ]
+}

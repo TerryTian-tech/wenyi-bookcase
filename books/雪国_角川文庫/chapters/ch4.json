@@ -1,0 +1,22 @@
+{
+  "index": 4,
+  "title": "雪国",
+  "segments": [
+    {
+      "index": 0,
+      "source": "雪国",
+      "kind": "text",
+      "target": "雪国",
+      "anchor": "tn4_0",
+      "cont": false,
+      "meta": {}
+    }
+  ],
+  "href": "OEBPS/text00004.html",
+  "template": "<!DOCTYPE html PUBLIC \"-//W3C//DTD XHTML 1.0 Strict//EN\" \"http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd\">\n<html class=\"vrtl\" lang=\"ja\" xml:lang=\"ja\" xmlns=\"http://www.w3.org/1999/xhtml\" xmlns:epub=\"http://www.idpf.org/2007/ops\">\n<head><meta charset=\"utf-8\"/>\n<title>雪国</title>\n<link href=\"flow0005.css\" rel=\"stylesheet\" type=\"text/css\"/>\n</head>\n<body class=\"p-tobira\">\n<div class=\"main start-1em\">\n<p><br/>\n</p>\n<p><br/>\n</p>\n<p><br/>\n</p>\n<p class=\"mfont font-1em50\" data-tn-id=\"tn4_0\" id=\"toc-001\">雪国</p>\n</div>\n</body>\n</html>\n",
+  "meta": {
+    "source_digest": "岛村坐火车前往雪国，途中透过车窗玻璃欣赏暮色中的山野，注意到对面座位上的美丽女子叶子。叶子细心照料一位生病的青年行男。岛村在温泉旅馆与艺伎驹子再次相遇，驹子对岛村表现出热烈而矛盾的感情。岛村得知驹子为给行男治病而当了艺伎，行男正是叶子照顾的病人。驹子深夜醉酒闯入岛村房间，两人关系进一步发展。本章展现了雪国冬夜的氛围，以及岛村对驹子、叶子的复杂感受。",
+    "review_issues": [],
+    "backtranslation_issues": []
+  }
+}

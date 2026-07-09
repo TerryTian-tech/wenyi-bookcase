@@ -1,0 +1,40 @@
+{
+  "index": 0,
+  "title": "雪国",
+  "segments": [
+    {
+      "index": 0,
+      "source": "雪国",
+      "kind": "text",
+      "target": "雪国",
+      "anchor": "tn0_0",
+      "cont": false,
+      "meta": {}
+    },
+    {
+      "index": 1,
+      "source": "川端康成",
+      "kind": "text",
+      "target": "川端康成",
+      "anchor": "tn0_1",
+      "cont": false,
+      "meta": {}
+    },
+    {
+      "index": 2,
+      "source": "角川ｅ\r\n 文庫",
+      "kind": "text",
+      "target": "角川e文库",
+      "anchor": "tn0_2",
+      "cont": false,
+      "meta": {}
+    }
+  ],
+  "href": "OEBPS/text00000.html",
+  "template": "<!DOCTYPE html PUBLIC \"-//W3C//DTD XHTML 1.0 Strict//EN\" \"http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd\">\n<html class=\"hltr\" lang=\"ja\" xml:lang=\"ja\" xmlns=\"http://www.w3.org/1999/xhtml\" xmlns:epub=\"http://www.idpf.org/2007/ops\">\n<head><meta charset=\"utf-8\"/>\n<title>雪国</title>\n<link href=\"flow0005.css\" rel=\"stylesheet\" type=\"text/css\"/>\n</head>\n<body class=\"p-titlepage\">\n<div class=\"main\">\n<div class=\"book-title\">\n<div class=\"book-title-main mfont\">\n<p data-tn-id=\"tn0_0\">雪国</p>\n</div>\n</div>\n<div class=\"author mfont\">\n<p data-tn-id=\"tn0_1\">川端康成</p>\n</div>\n<div class=\"label\">\n<p class=\"label-logo\"><img alt=\"\" src=\"Image00000.gif\"/>\n</p>\n<p class=\"label-name\" data-tn-id=\"tn0_2\">角川<span class=\"inverse\">ｅ</span>\r\n 文庫</p>\n</div>\n</div>\n</body>\n</html>\n",
+  "meta": {
+    "source_digest": "岛村乘火车前往雪国途中，透过车窗映出的暮色，看到邻座少女叶子的面庞与窗外山野交织的幻影。抵达温泉旅馆后，他重逢艺伎驹子，两人共度一夜。驹子酒后吐露心声，提及为师傅的儿子行男治病而卖身，但岛村感觉她虽热情却执着于虚幻。次日，驹子送别岛村时，叶子前来通报行男病危，驹子却拒绝回去，留下谜团。本章通过镜中映像与雪国景色，暗示人物的孤独与爱恋的徒劳。",
+    "review_issues": [],
+    "backtranslation_issues": []
+  }
+}

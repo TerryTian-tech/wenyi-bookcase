@@ -1,0 +1,303 @@
+{
+  "summary": {
+    "chapters_total": 11,
+    "chapters_done": 11,
+    "terms": 320,
+    "open_conflicts": 9,
+    "review_issues": 16,
+    "backtranslation_issues": 0,
+    "empty_targets": 0
+  },
+  "open_conflicts": [
+    {
+      "id": 1,
+      "source": "国境",
+      "existing_target": "国境",
+      "proposed_target": "边境",
+      "chapter": 5,
+      "note": null,
+      "resolved": 0,
+      "created_at": 1783579519.1696723
+    },
+    {
+      "id": 2,
+      "source": "西洋舞踊",
+      "existing_target": "西洋舞",
+      "proposed_target": "西洋舞蹈",
+      "chapter": 5,
+      "note": null,
+      "resolved": 0,
+      "created_at": 1783580423.2406728
+    },
+    {
+      "id": 3,
+      "source": "いいなずけ",
+      "existing_target": "未婚妻",
+      "proposed_target": "婚约",
+      "chapter": 5,
+      "note": null,
+      "resolved": 0,
+      "created_at": 1783581040.1978934
+    },
+    {
+      "id": 4,
+      "source": "お座敷",
+      "existing_target": "宴会",
+      "proposed_target": "宴席",
+      "chapter": 5,
+      "note": null,
+      "resolved": 0,
+      "created_at": 1783581040.1991367
+    },
+    {
+      "id": 5,
+      "source": "いいなずけ",
+      "existing_target": "未婚妻",
+      "proposed_target": "未婚夫",
+      "chapter": 6,
+      "note": null,
+      "resolved": 0,
+      "created_at": 1783583451.1938317
+    },
+    {
+      "id": 6,
+      "source": "旦那",
+      "existing_target": "那个男人",
+      "proposed_target": "先生",
+      "chapter": 6,
+      "note": null,
+      "resolved": 0,
+      "created_at": 1783583706.816929
+    },
+    {
+      "id": 7,
+      "source": "機業地",
+      "existing_target": "纺织区",
+      "proposed_target": "机业地",
+      "chapter": 6,
+      "note": null,
+      "resolved": 0,
+      "created_at": 1783584618.700303
+    },
+    {
+      "id": 8,
+      "source": "拐",
+      "existing_target": "拐杖",
+      "proposed_target": "拐",
+      "chapter": 7,
+      "note": null,
+      "resolved": 0,
+      "created_at": 1783586053.2419295
+    },
+    {
+      "id": 9,
+      "source": "拐",
+      "existing_target": "拐杖",
+      "proposed_target": "拐",
+      "chapter": 7,
+      "note": null,
+      "resolved": 0,
+      "created_at": 1783586086.190971
+    }
+  ],
+  "low_confidence_terms": [
+    {
+      "source": "いいなずけ",
+      "target": "未婚妻",
+      "type": "称谓",
+      "confidence": "medium",
+      "status": "conflict"
+    },
+    {
+      "source": "お座敷",
+      "target": "宴会",
+      "type": "术语",
+      "confidence": "medium",
+      "status": "conflict"
+    },
+    {
+      "source": "国境",
+      "target": "国境",
+      "type": "地名",
+      "confidence": "medium",
+      "status": "conflict"
+    },
+    {
+      "source": "拐",
+      "target": "拐杖",
+      "type": "物品",
+      "confidence": "medium",
+      "status": "conflict"
+    },
+    {
+      "source": "旦那",
+      "target": "那个男人",
+      "type": "称谓",
+      "confidence": "medium",
+      "status": "conflict"
+    },
+    {
+      "source": "機業地",
+      "target": "纺织区",
+      "type": "地点",
+      "confidence": "medium",
+      "status": "conflict"
+    },
+    {
+      "source": "西洋舞踊",
+      "target": "西洋舞",
+      "type": "术语",
+      "confidence": "medium",
+      "status": "conflict"
+    }
+  ],
+  "review_issues": [
+    {
+      "index": 127,
+      "type": "added",
+      "detail": "原文为'女の声に'，未出现名字，译文将'女'译为'驹子'，属于增译。",
+      "suggestion": "将'驹子的声音里'改为'她的声音里'或'女子的声音里'。",
+      "chapter": 5,
+      "fixed": false,
+      "stage": "review"
+    },
+    {
+      "index": 128,
+      "type": "added",
+      "detail": "原文为'女はとにかく素人である。'，未出现名字，译文将'女'译为'驹子'，属于增译。",
+      "suggestion": "将'驹子毕竟是个外行'改为'她毕竟是个外行'或'女子毕竟是个外行'。",
+      "chapter": 5,
+      "fixed": false,
+      "stage": "review"
+    },
+    {
+      "index": 129,
+      "type": "added",
+      "detail": "原文两处'女'（'そうすれば女は'和'女に'）未出现名字，译文均译为'驹子'，属于增译。",
+      "suggestion": "将两处'驹子'分别改为'她'或'女子'。",
+      "chapter": 5,
+      "fixed": false,
+      "stage": "review"
+    },
+    {
+      "index": 132,
+      "type": "added",
+      "detail": "原文两处'女を'（'女を彼に親しませる'和'女を西洋舞踊扱いに'）未出现名字，译文均译为'驹子'，属于增译。",
+      "suggestion": "将两处'驹子'分别改为'她'或'女子'。",
+      "chapter": 5,
+      "fixed": false,
+      "stage": "review"
+    },
+    {
+      "index": 502,
+      "type": "terminology",
+      "detail": "对照表规定「三味線」译作「三弦」，但译文使用了「三味线」。",
+      "suggestion": "将「三味线谱」改为「三弦谱」。",
+      "chapter": 5,
+      "fixed": false,
+      "stage": "review"
+    },
+    {
+      "index": 642,
+      "type": "added",
+      "detail": "原文无'脸色阴沉'，译文凭空添加",
+      "suggestion": "删去'脸色阴沉'，改为'只有四五个穿着阴郁冬装的本地人默默地上下车'",
+      "chapter": 5,
+      "fixed": false,
+      "stage": "review"
+    },
+    {
+      "index": 650,
+      "type": "mistranslation",
+      "detail": "原文'なぜか頑固に帰らなかった'主语应为行男，译文误为驹子",
+      "suggestion": "改为'不知为何他（行男）固执地不肯回去'",
+      "chapter": 5,
+      "fixed": false,
+      "stage": "review"
+    },
+    {
+      "index": 657,
+      "type": "terminology",
+      "detail": "对照表'次の間→侧室'，译文用了'隔壁'",
+      "suggestion": "将'隔壁三铺席房间'改为'侧室三铺席'",
+      "chapter": 5,
+      "fixed": false,
+      "stage": "review"
+    },
+    {
+      "index": 662,
+      "type": "terminology",
+      "detail": "对照表'白萩→白胡枝子'，译文用了'白萩'",
+      "suggestion": "将'白萩'改为'白胡枝子'",
+      "chapter": 5,
+      "fixed": false,
+      "stage": "review"
+    },
+    {
+      "index": 704,
+      "type": "terminology",
+      "detail": "对照表'鳥追い祭→驱鸟节'，译文用了'驱鸟祭'",
+      "suggestion": "将'驱鸟祭'改为'驱鸟节'",
+      "chapter": 5,
+      "fixed": false,
+      "stage": "review"
+    },
+    {
+      "index": 69,
+      "type": "terminology",
+      "detail": "'年期'未按对照表译为'年季'",
+      "suggestion": "将'年期'改为'年季'",
+      "chapter": 6,
+      "fixed": false,
+      "stage": "review"
+    },
+    {
+      "index": 341,
+      "type": "terminology",
+      "detail": "结び文应译为便条，而非折成结的书信",
+      "suggestion": "便条",
+      "chapter": 6,
+      "fixed": false,
+      "stage": "review"
+    },
+    {
+      "index": 417,
+      "type": "mistranslation",
+      "detail": "いいなずけ是未婚夫，误译为未婚妻",
+      "suggestion": "未婚夫",
+      "chapter": 6,
+      "fixed": false,
+      "stage": "review"
+    },
+    {
+      "index": 698,
+      "type": "mistranslation",
+      "detail": "原文「目玉が寒くて」意为眼睛冷，译文误译为“冻得疼”。",
+      "suggestion": "改为“眼睛冻得流眼泪了”或“眼睛冷得流眼泪了”。",
+      "chapter": 6,
+      "fixed": false,
+      "stage": "review"
+    },
+    {
+      "index": 711,
+      "type": "mistranslation",
+      "detail": "原文「歩き出す」是开始走，译文误为“跑出”。",
+      "suggestion": "改为“岛村刚走出不远”。",
+      "chapter": 6,
+      "fixed": false,
+      "stage": "review"
+    },
+    {
+      "index": 20,
+      "type": "mistranslation",
+      "detail": "原文括号内为L'amour et la Dance，译文误改为L'âme et la danse；且Degas, Dance, Dessin被误改为Degas, Danse, Dessin。",
+      "suggestion": "将括号内内容改为L'amour et la Dance和Degas, Dance, Dessin",
+      "chapter": 7,
+      "fixed": false,
+      "stage": "review"
+    }
+  ],
+  "backtranslation_issues": [],
+  "empty_targets": [],
+  "consistency_issues": []
+}

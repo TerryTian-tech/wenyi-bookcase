@@ -1,0 +1,22 @@
+{
+  "index": 3,
+  "title": "雪国",
+  "segments": [
+    {
+      "index": 0,
+      "source": "挿絵　小倉遊亀",
+      "kind": "text",
+      "target": "插图　小仓游龟",
+      "anchor": "tn3_0",
+      "cont": false,
+      "meta": {}
+    }
+  ],
+  "href": "OEBPS/text00003.html",
+  "template": "<!DOCTYPE html PUBLIC \"-//W3C//DTD XHTML 1.0 Strict//EN\" \"http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd\">\n<html class=\"vrtl\" lang=\"ja\" xml:lang=\"ja\" xmlns=\"http://www.w3.org/1999/xhtml\" xmlns:epub=\"http://www.idpf.org/2007/ops\">\n<head><meta charset=\"utf-8\"/>\n<title>雪国</title>\n<link href=\"flow0005.css\" rel=\"stylesheet\" type=\"text/css\"/>\n</head>\n<body class=\"p-text\">\n<div class=\"main\">\n<p><br/>\n</p>\n<p><br/>\n</p>\n<p><br/>\n</p>\n<p data-tn-id=\"tn3_0\">挿絵　小倉遊亀</p>\n</div>\n</body>\n</html>\n",
+  "meta": {
+    "source_digest": "本章仅附有小仓游龟的插图，无具体情节推进。",
+    "review_issues": [],
+    "backtranslation_issues": []
+  }
+}

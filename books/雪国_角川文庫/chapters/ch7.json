@@ -1,0 +1,284 @@
+{
+  "index": 7,
+  "title": "注釈",
+  "segments": [
+    {
+      "index": 0,
+      "source": "注釈",
+      "kind": "text",
+      "target": "注释",
+      "anchor": "tn7_0",
+      "cont": false,
+      "meta": {}
+    },
+    {
+      "index": 1,
+      "source": "＊１国境の長いトンネル\r\n 　群\r\n 馬\n\r\n 県と新\r\n 潟\n\r\n 県の県境にある清水\n\r\n トンネル。「雪国」は新潟県の湯沢温泉が舞台になっている。",
+      "kind": "text",
+      "target": "＊1 国境长隧道\n　位于群马县与新潟县交界处的清水隧道。《雪国》的故事舞台设定在新潟县的汤泽温泉。",
+      "anchor": "tn7_1",
+      "cont": false,
+      "meta": {}
+    },
+    {
+      "index": 2,
+      "source": "＊２内湯\r\n 　温泉場で、旅館などの屋内に浴\r\n 槽\n\r\n を設けた湯。",
+      "kind": "text",
+      "target": "＊2 内汤\n　指温泉场中旅馆等建筑内部设有浴池的温泉。",
+      "anchor": "tn7_2",
+      "cont": false,
+      "meta": {}
+    },
+    {
+      "index": 3,
+      "source": "＊３半玉\r\n 　まだ一人まえの芸\r\n 妓\n\r\n でない、玉代（料金）が半額の妓。",
+      "kind": "text",
+      "target": "＊3 半玉\n　指尚未成为正式艺妓，所需费用（玉代）减半的妓女。",
+      "anchor": "tn7_3",
+      "cont": false,
+      "meta": {}
+    },
+    {
+      "index": 4,
+      "source": "＊４お酌\r\n 　酌婦、または雛\r\n 妓\n\r\n ・半玉。ここでは後者。",
+      "kind": "text",
+      "target": "＊4 酌妇\n　意为斟酒陪侍的女子，亦可指雏妓或半玉。此处指后者。",
+      "anchor": "tn7_4",
+      "cont": false,
+      "meta": {}
+    },
+    {
+      "index": 5,
+      "source": "＊５鑑札\r\n 　営業を許可した証として警察署などが交付する証票。",
+      "kind": "text",
+      "target": "＊5 执照\n　由警察署等机构颁发的、作为营业许可的证明文件。",
+      "anchor": "tn7_5",
+      "cont": false,
+      "meta": {}
+    },
+    {
+      "index": 6,
+      "source": "＊６山袴\r\n 　雪袴、カルサンとも呼ぶ。上部をゆるく、下部を詰めて縫ったモンペ。",
+      "kind": "text",
+      "target": "＊6 裙裤\n　又称雪袴、カルサン。一种上部宽松、下部收窄的和式裤装。",
+      "anchor": "tn7_6",
+      "cont": false,
+      "meta": {}
+    },
+    {
+      "index": 7,
+      "source": "＊７杵屋弥七\r\n 　明治二十三年─昭和十七年（一八九〇─一九四二）。長唄三味線家。大正十一年に三味線の曲を譜面に表わし、翌年三味線学校塾を創設した。",
+      "kind": "text",
+      "target": "＊7 杵屋弥七\n　（明治二十三年——昭和十七年，一八九○——一九四二），长谣曲三弦演奏家。大正十一年（一九二二）将三弦曲谱写定为乐谱，翌年创办三弦学校塾。",
+      "anchor": "tn7_7",
+      "cont": false,
+      "meta": {}
+    },
+    {
+      "index": 8,
+      "source": "＊８勧進帳\r\n 　歌\r\n 舞\r\n 伎\n\r\n 十八番のうち、最も新しくできた長唄による舞踊劇。三世並\r\n 木\r\n 五\r\n 瓶\n\r\n 作、四世杵屋六三郎作曲。天\r\n 保\n\r\n 十一年（一八四〇）初演、七世松本幸四郎の当たり芸となり流行曲となった。特に長唄曲のすぐれたものとして知られる。",
+      "kind": "text",
+      "target": "＊8 劝进帐\n　歌舞伎十八番中最新创作的长谣曲舞蹈剧。由三世并木五瓶作词，四世杵屋六三郎作曲。天保十一年（一八四○）首演，后成为七世松本幸四郎的拿手好戏，广为流传。尤以其出色的长谣曲而闻名。",
+      "anchor": "tn7_8",
+      "cont": false,
+      "meta": {}
+    },
+    {
+      "index": 9,
+      "source": "＊９都鳥\r\n 　二世杵屋勝三郎作曲の長唄曲。春から夏へかけての隅\r\n 田\r\n 川\n\r\n の風物に男女の情をからませたもの。",
+      "kind": "text",
+      "target": "＊9 都鸟\n　由二世杵屋胜三郎作曲的长谣曲，交织了从春到夏隅田川的风物与男女之情。",
+      "anchor": "tn7_9",
+      "cont": false,
+      "meta": {}
+    },
+    {
+      "index": 10,
+      "source": "＊10\r\n 新曲浦島\r\n 　浦島伝説による舞踊劇。坪内逍\r\n 遥\n\r\n 作。長唄曲は、その序の部分を杵屋勘五郎と杵屋寒玉が作曲したもの。",
+      "kind": "text",
+      "target": "＊10 新曲浦岛\n　根据浦岛传说改编的舞蹈剧，坪内逍遥作。其长谣曲部分的序曲，由杵屋勘五郎与杵屋寒玉作曲。",
+      "anchor": "tn7_10",
+      "cont": false,
+      "meta": {}
+    },
+    {
+      "index": 11,
+      "source": "＊11\r\n 縹色\r\n 　藍\r\n 色\n\r\n 。",
+      "kind": "text",
+      "target": "＊11 縹色\n　即蓝色。",
+      "anchor": "tn7_11",
+      "cont": false,
+      "meta": {}
+    },
+    {
+      "index": 12,
+      "source": "＊12\r\n 自在鍵\r\n 　炉やかまどの上からつるし、自在に鉄びんやなべ、かまなどを上下させる装置の鉤\n\r\n 。竹筒に鉤をつけたもの。",
+      "kind": "text",
+      "target": "＊12 自在钩\n　从炉灶上方吊下的装置，可调节铁壶、锅、釜等器具的高度。钩身套有竹筒。",
+      "anchor": "tn7_12",
+      "cont": false,
+      "meta": {}
+    },
+    {
+      "index": 13,
+      "source": "＊13\r\n 鉄道省\r\n 　かつての内閣各省の一つ。鉄道行政に関する事務を管掌した中央官庁で、国有鉄道の経営にもあたったが、昭和二十四年に運輸省に、平成十三年に国土交通省に改組された。",
+      "kind": "text",
+      "target": "＊13 铁道省\n　旧日本内阁省厅之一，是掌管铁道行政事务的中央官厅，同时负责经营国有铁道。昭和二十四年（一九四九）改组为运输省，平成十三年（二○○一）再改组为国土交通省。",
+      "anchor": "tn7_13",
+      "cont": false,
+      "meta": {}
+    },
+    {
+      "index": 14,
+      "source": "＊14\r\n 鳥追い祭\r\n 　旧暦の正月十四日夜から十五日の早朝にかけて、その年の豊作を祈念して行なわれる農村の行事。",
+      "kind": "text",
+      "target": "＊14 驱鸟节\n　在农历正月十四日夜晚至十五日清晨举行，为祈求当年丰收的农村节庆活动。",
+      "anchor": "tn7_14",
+      "cont": false,
+      "meta": {}
+    },
+    {
+      "index": 15,
+      "source": "＊15\r\n 六百本\r\n 　芸妓の揚代を計算する線香の数。もと線香一本の尽きる間を単位としたので、揚代のことを線香代という習慣が残った。",
+      "kind": "text",
+      "target": "＊15 六百本\n　指计算艺妓陪客费用时所依据的线香数量。因最初以一根线香燃尽的时间为计价单位，故习惯上将陪客费称作线香钱。",
+      "anchor": "tn7_15",
+      "cont": false,
+      "meta": {}
+    },
+    {
+      "index": 16,
+      "source": "＊16\r\n 置屋\r\n 　芸妓をかかえておく家。",
+      "kind": "text",
+      "target": "＊16 置屋\n　蓄养艺妓的人家。",
+      "anchor": "tn7_16",
+      "cont": false,
+      "meta": {}
+    },
+    {
+      "index": 17,
+      "source": "＊17\r\n メエトル\r\n 　電気の使用量を計るメートル計器。当時は使用量をメートルで払う家が少なかったので、こうした心づかいをしたもの。",
+      "kind": "text",
+      "target": "＊17 电表\n　计量用电量的仪表。当时按电表缴纳电费的家庭极少，因此给予了这样的关照。",
+      "anchor": "tn7_17",
+      "cont": false,
+      "meta": {}
+    },
+    {
+      "index": 18,
+      "source": "＊18\r\n 撥胼胝\r\n 　三味線や琵\r\n 琶\n\r\n をひく人で、撥\n\r\n のあたる所にできるたこ\r\n 。",
+      "kind": "text",
+      "target": "＊18 拨子胼胝\n　指弹奏三弦或琵琶时，因拨子长期击打而在手指或手腕上形成的老茧。",
+      "anchor": "tn7_18",
+      "cont": false,
+      "meta": {}
+    },
+    {
+      "index": 19,
+      "source": "＊19\r\n 髢\r\n 　婦人の髪に添え加える髪の毛。",
+      "kind": "text",
+      "target": "＊19 假发\n　妇女用来添缀在自己头发上的毛发。",
+      "anchor": "tn7_19",
+      "cont": false,
+      "meta": {}
+    },
+    {
+      "index": 20,
+      "source": "＊20\r\n ヴァレリイ\r\n 　Paul Valéry（一八七一─一九四五）。フランスの詩人・批評家。その「舞踊論」は「霊魂と舞踊」（\r\n L'amour et la Dance\r\n ）、または「ドガ・ダンス・デッサン」（\r\n Degas, Dance, Dessin\r\n ）のことか。",
+      "kind": "text",
+      "target": "＊20 瓦雷里\n　Paul Valéry（一八七一——一九四五），法国诗人、批评家。其舞蹈论著为《灵魂与舞蹈》（L‘âme et la danse），或《德加·舞蹈·素描》（Degas, Danse, Dessin）。",
+      "anchor": "tn7_20",
+      "cont": false,
+      "meta": {}
+    },
+    {
+      "index": 21,
+      "source": "＊21\r\n アラン\r\n 　Alain（一八六八─一九五一）。フランスの思想家・文学者。特に舞踊論として書かれた論文はないが、さまざまな文章で舞踊に触れている。",
+      "kind": "text",
+      "target": "＊21 阿兰\n　Alain（一八六八——一九五一），法国思想家、文学家。虽无舞蹈方面的专门论著，但在多篇文章中论及舞蹈。",
+      "anchor": "tn7_21",
+      "cont": false,
+      "meta": {}
+    },
+    {
+      "index": 22,
+      "source": "＊22\r\n 拳\r\n 　じゃんけんのようにして勝負を争う遊戯。本拳、虫拳、狐\n\r\n 拳などがある。",
+      "kind": "text",
+      "target": "＊22 拳\n　类似猜拳的游戏，用以决胜负。包括本拳、虫拳、狐拳等多种。",
+      "anchor": "tn7_22",
+      "cont": false,
+      "meta": {}
+    },
+    {
+      "index": 23,
+      "source": "＊23\r\n 「ここらあたりは山家ゆえ、……」\r\n 　浄瑠璃「箱根霊\r\n 験\r\n 躄\r\n 仇\r\n 討\n\r\n 」の中の、女主人公初\r\n 花\n\r\n のせりふの一節。",
+      "kind": "text",
+      "target": "＊23 “此处乃山乡……”净琉璃《箱根灵验躄复仇》中女主人公初花的台词片段。",
+      "anchor": "tn7_23",
+      "cont": false,
+      "meta": {}
+    },
+    {
+      "index": 24,
+      "source": "＊24\r\n 三都\r\n 　東京・大阪・京都のこと。",
+      "kind": "text",
+      "target": "＊24 三都\n　东京、大阪、京都。",
+      "anchor": "tn7_24",
+      "cont": false,
+      "meta": {}
+    },
+    {
+      "index": 25,
+      "source": "＊25\r\n 拐\r\n 　かせぎ。紡いだ糸を掛けて巻く工の字型の道具。",
+      "kind": "text",
+      "target": "＊25 拐\n　纺车。指纺纱时挂丝卷绕的工字形工具。",
+      "anchor": "tn7_25",
+      "cont": false,
+      "meta": {}
+    },
+    {
+      "index": 26,
+      "source": "＊26\r\n 秦韜玉\r\n 　生没年未詳。唐末の政治家で、詩人。",
+      "kind": "text",
+      "target": "＊26 秦韬玉\n　生卒年不详，唐末政治家、诗人。",
+      "anchor": "tn7_26",
+      "cont": false,
+      "meta": {}
+    },
+    {
+      "index": 27,
+      "source": "＊27\r\n 算木\r\n 　板屋根の上に横に並べて打たれている木。",
+      "kind": "text",
+      "target": "＊27 压条\n　在木板屋顶上横向并排钉置的木条。",
+      "anchor": "tn7_27",
+      "cont": false,
+      "meta": {}
+    },
+    {
+      "index": 28,
+      "source": "＊28\r\n 擦半鐘\r\n 　スリバン。近所の火事を知らせる時、続けざまに鳴らす半鐘。",
+      "kind": "text",
+      "target": "＊28 报警钟\n　日语称スリバン，一种在通知附近火灾时连续敲响的半钟。",
+      "anchor": "tn7_28",
+      "cont": false,
+      "meta": {}
+    }
+  ],
+  "href": "OEBPS/text00007.html",
+  "template": "<!DOCTYPE html PUBLIC \"-//W3C//DTD XHTML 1.0 Strict//EN\" \"http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd\">\n<html class=\"vrtl\" lang=\"ja\" xml:lang=\"ja\" xmlns=\"http://www.w3.org/1999/xhtml\" xmlns:epub=\"http://www.idpf.org/2007/ops\">\n<head><meta charset=\"utf-8\"/>\n<title>雪国</title>\n<link href=\"flow0005.css\" rel=\"stylesheet\" type=\"text/css\"/>\n</head>\n<body class=\"p-text\">\n<div class=\"main\">\n<p class=\"mfont font-1em30\" data-tn-id=\"tn7_0\" id=\"toc-002\">　注釈</p>\n<p><br/>\n</p>\n<p><br/>\n</p>\n<div class=\"start-2em h-indent-2em\">\n<p data-tn-id=\"tn7_1\" id=\"ref-0001\">\n<a class=\"cyu\" href=\"text00005.html#key-0001\">＊１国境の長いトンネル</a>\r\n 　<ruby>群<rt>ぐん</rt>\r\n 馬<rt>ま</rt>\n</ruby>\r\n 県と<ruby>新<rt>にい</rt>\r\n 潟<rt>がた</rt>\n</ruby>\r\n 県の県境にある<ruby>清水<rt>しみず</rt>\n</ruby>\r\n トンネル。「雪国」は新潟県の湯沢温泉が舞台になっている。</p>\n<p data-tn-id=\"tn7_2\" id=\"ref-0002\">\n<a class=\"cyu\" href=\"text00005.html#key-0002\">＊２内湯</a>\r\n 　温泉場で、旅館などの屋内に<ruby>浴<rt>よく</rt>\r\n 槽<rt>そう</rt>\n</ruby>\r\n を設けた湯。</p>\n<p data-tn-id=\"tn7_3\" id=\"ref-0003\">\n<a class=\"cyu\" href=\"text00005.html#key-0003\">＊３半玉</a>\r\n 　まだ一人まえの<ruby>芸<rt>げい</rt>\r\n 妓<rt>ぎ</rt>\n</ruby>\r\n でない、玉代（料金）が半額の妓。</p>\n<p data-tn-id=\"tn7_4\" id=\"ref-0004\">\n<a class=\"cyu\" href=\"text00005.html#key-0004\">＊４お酌</a>\r\n 　酌婦、または<ruby>雛<rt>すう</rt>\r\n 妓<rt>ぎ</rt>\n</ruby>\r\n ・半玉。ここでは後者。</p>\n<p data-tn-id=\"tn7_5\" id=\"ref-0005\">\n<a class=\"cyu\" href=\"text00005.html#key-0005\">＊５鑑札</a>\r\n 　営業を許可した証として警察署などが交付する証票。</p>\n<p data-tn-id=\"tn7_6\" id=\"ref-0006\">\n<a class=\"cyu\" href=\"text00005.html#key-0006\">＊６山袴</a>\r\n 　雪袴、カルサンとも呼ぶ。上部をゆるく、下部を詰めて縫ったモンペ。</p>\n<p data-tn-id=\"tn7_7\" id=\"ref-0007\">\n<a class=\"cyu\" href=\"text00005.html#key-0007\">＊７杵屋弥七</a>\r\n 　明治二十三年─昭和十七年（一八九〇─一九四二）。長唄三味線家。大正十一年に三味線の曲を譜面に表わし、翌年三味線学校塾を創設した。</p>\n<p data-tn-id=\"tn7_8\" id=\"ref-0008\">\n<a class=\"cyu\" href=\"text00005.html#key-0008\">＊８勧進帳</a>\r\n 　<ruby>歌<rt>か</rt>\r\n 舞<rt>ぶ</rt>\r\n 伎<rt>き</rt>\n</ruby>\r\n 十八番のうち、最も新しくできた長唄による舞踊劇。三世<ruby>並<rt>なみ</rt>\r\n 木<rt>き</rt>\r\n 五<rt>ご</rt>\r\n 瓶<rt>へい</rt>\n</ruby>\r\n 作、四世杵屋六三郎作曲。<ruby>天<rt>てん</rt>\r\n 保<rt>ぽう</rt>\n</ruby>\r\n 十一年（一八四〇）初演、七世松本幸四郎の当たり芸となり流行曲となった。特に長唄曲のすぐれたものとして知られる。</p>\n<p data-tn-id=\"tn7_9\" id=\"ref-0009\">\n<a class=\"cyu\" href=\"text00005.html#key-0009\">＊９都鳥</a>\r\n 　二世杵屋勝三郎作曲の長唄曲。春から夏へかけての<ruby>隅<rt>すみ</rt>\r\n 田<rt>だ</rt>\r\n 川<rt>がわ</rt>\n</ruby>\r\n の風物に男女の情をからませたもの。</p>\n<p data-tn-id=\"tn7_10\" id=\"ref-0010\">\n<a class=\"cyu\" href=\"text00005.html#key-0010\">＊<span class=\"tcy\">10</span>\r\n 新曲浦島</a>\r\n 　浦島伝説による舞踊劇。坪内<ruby>逍<rt>しよう</rt>\r\n 遥<rt>よう</rt>\n</ruby>\r\n 作。長唄曲は、その序の部分を杵屋勘五郎と杵屋寒玉が作曲したもの。</p>\n<p data-tn-id=\"tn7_11\" id=\"ref-0011\">\n<a class=\"cyu\" href=\"text00005.html#key-0011\">＊<span class=\"tcy\">11</span>\r\n 縹色</a>\r\n 　<ruby>藍<rt>あい</rt>\r\n 色<rt>いろ</rt>\n</ruby>\r\n 。</p>\n<p data-tn-id=\"tn7_12\" id=\"ref-0012\">\n<a class=\"cyu\" href=\"text00005.html#key-0012\">＊<span class=\"tcy\">12</span>\r\n 自在鍵</a>\r\n 　炉やかまどの上からつるし、自在に鉄びんやなべ、かまなどを上下させる装置の<ruby>鉤<rt>かぎ</rt>\n</ruby>\r\n 。竹筒に鉤をつけたもの。</p>\n<p data-tn-id=\"tn7_13\" id=\"ref-0013\">\n<a class=\"cyu\" href=\"text00005.html#key-0013\">＊<span class=\"tcy\">13</span>\r\n 鉄道省</a>\r\n 　かつての内閣各省の一つ。鉄道行政に関する事務を管掌した中央官庁で、国有鉄道の経営にもあたったが、昭和二十四年に運輸省に、平成十三年に国土交通省に改組された。</p>\n<p data-tn-id=\"tn7_14\" id=\"ref-0014\">\n<a class=\"cyu\" href=\"text00005.html#key-0014\">＊<span class=\"tcy\">14</span>\r\n 鳥追い祭</a>\r\n 　旧暦の正月十四日夜から十五日の早朝にかけて、その年の豊作を祈念して行なわれる農村の行事。</p>\n<p data-tn-id=\"tn7_15\" id=\"ref-0015\">\n<a class=\"cyu\" href=\"text00006.html#key-0015\">＊<span class=\"tcy\">15</span>\r\n 六百本</a>\r\n 　芸妓の揚代を計算する線香の数。もと線香一本の尽きる間を単位としたので、揚代のことを線香代という習慣が残った。</p>\n<p data-tn-id=\"tn7_16\" id=\"ref-0016\">\n<a class=\"cyu\" href=\"text00006.html#key-0016\">＊<span class=\"tcy\">16</span>\r\n 置屋</a>\r\n 　芸妓をかかえておく家。</p>\n<p data-tn-id=\"tn7_17\" id=\"ref-0017\">\n<a class=\"cyu\" href=\"text00006.html#key-0017\">＊<span class=\"tcy\">17</span>\r\n メエトル</a>\r\n 　電気の使用量を計るメートル計器。当時は使用量をメートルで払う家が少なかったので、こうした心づかいをしたもの。</p>\n<p data-tn-id=\"tn7_18\" id=\"ref-0018\">\n<a class=\"cyu\" href=\"text00006.html#key-0018\">＊<span class=\"tcy\">18</span>\r\n 撥胼胝</a>\r\n 　三味線や<ruby>琵<rt>び</rt>\r\n 琶<rt>わ</rt>\n</ruby>\r\n をひく人で、<ruby>撥<rt>ばち</rt>\n</ruby>\r\n のあたる所にできる<span class=\"em-sesame\">たこ</span>\r\n 。</p>\n<p data-tn-id=\"tn7_19\" id=\"ref-0019\">\n<a class=\"cyu\" href=\"text00006.html#key-0019\">＊<span class=\"tcy\">19</span>\r\n 髢</a>\r\n 　婦人の髪に添え加える髪の毛。</p>\n<p data-tn-id=\"tn7_20\" id=\"ref-0020\">\n<a class=\"cyu\" href=\"text00006.html#key-0020\">＊<span class=\"tcy\">20</span>\r\n ヴァレリイ</a>\r\n 　Paul Valéry（一八七一─一九四五）。フランスの詩人・批評家。その「舞踊論」は「霊魂と舞踊」（<img alt=\"“\" class=\"gaiji\" src=\"Image00007.jpg\"/>\r\n L'amour et la Dance<img alt=\"”\" class=\"gaiji\" src=\"Image00008.jpg\"/>\r\n ）、または「ドガ・ダンス・デッサン」（<img alt=\"“\" class=\"gaiji\" src=\"Image00007.jpg\"/>\r\n Degas, Dance, Dessin<img alt=\"”\" class=\"gaiji\" src=\"Image00008.jpg\"/>\r\n ）のことか。</p>\n<p data-tn-id=\"tn7_21\" id=\"ref-0021\">\n<a class=\"cyu\" href=\"text00006.html#key-0021\">＊<span class=\"tcy\">21</span>\r\n アラン</a>\r\n 　Alain（一八六八─一九五一）。フランスの思想家・文学者。特に舞踊論として書かれた論文はないが、さまざまな文章で舞踊に触れている。</p>\n<p data-tn-id=\"tn7_22\" id=\"ref-0022\">\n<a class=\"cyu\" href=\"text00006.html#key-0022\">＊<span class=\"tcy\">22</span>\r\n 拳</a>\r\n 　じゃんけんのようにして勝負を争う遊戯。本拳、虫拳、<ruby>狐<rt>きつね</rt>\n</ruby>\r\n 拳などがある。</p>\n<p data-tn-id=\"tn7_23\" id=\"ref-0023\">\n<a class=\"cyu\" href=\"text00006.html#key-0023\">＊<span class=\"tcy\">23</span>\r\n 「ここらあたりは山家ゆえ、……」</a>\r\n 　浄瑠璃「箱根<ruby>霊<rt>れい</rt>\r\n 験<rt>げん</rt>\r\n 躄<rt>いざりの</rt>\r\n 仇<rt>あだ</rt>\r\n 討<rt>うち</rt>\n</ruby>\r\n 」の中の、女主人公<ruby>初<rt>はつ</rt>\r\n 花<rt>はな</rt>\n</ruby>\r\n のせりふの一節。</p>\n<p data-tn-id=\"tn7_24\" id=\"ref-0024\">\n<a class=\"cyu\" href=\"text00006.html#key-0024\">＊<span class=\"tcy\">24</span>\r\n 三都</a>\r\n 　東京・大阪・京都のこと。</p>\n<p data-tn-id=\"tn7_25\" id=\"ref-0025\">\n<a class=\"cyu\" href=\"text00006.html#key-0025\">＊<span class=\"tcy\">25</span>\r\n 拐</a>\r\n 　かせぎ。紡いだ糸を掛けて巻く工の字型の道具。</p>\n<p data-tn-id=\"tn7_26\" id=\"ref-0026\">\n<a class=\"cyu\" href=\"text00006.html#key-0026\">＊<span class=\"tcy\">26</span>\r\n 秦韜玉</a>\r\n 　生没年未詳。唐末の政治家で、詩人。</p>\n<p data-tn-id=\"tn7_27\" id=\"ref-0027\">\n<a class=\"cyu\" href=\"text00006.html#key-0027\">＊<span class=\"tcy\">27</span>\r\n 算木</a>\r\n 　板屋根の上に横に並べて打たれている木。</p>\n<p data-tn-id=\"tn7_28\" id=\"ref-0028\">\n<a class=\"cyu\" href=\"text00006.html#key-0028\">＊<span class=\"tcy\">28</span>\r\n 擦半鐘</a>\r\n 　スリバン。近所の火事を知らせる時、続けざまに鳴らす半鐘。</p>\n</div>\n</div>\n</body>\n</html>\n",
+  "meta": {
+    "source_digest": "列车穿过国境隧道，驶入雪国。岛村在温泉村邂逅半玉（见习艺妓）驹子。驹子性格纯真，主动找岛村聊天，谈及自己的境遇与学艺经历。她弹唱三味线，充满热情。岛村感到驹子身上有种虚幻的美。两人产生微妙情感，驹子为岛村表演舞蹈，展现了她倔强而鲜活的内心。",
+    "review_issues": [
+      {
+        "index": 20,
+        "type": "mistranslation",
+        "detail": "原文括号内为L'amour et la Dance，译文误改为L'âme et la danse；且Degas, Dance, Dessin被误改为Degas, Danse, Dessin。",
+        "suggestion": "将括号内内容改为L'amour et la Dance和Degas, Dance, Dessin",
+        "chapter": 7,
+        "fixed": false,
+        "stage": "review"
+      }
+    ],
+    "backtranslation_issues": []
+  }
+}

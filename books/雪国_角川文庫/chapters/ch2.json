@@ -1,0 +1,40 @@
+{
+  "index": 2,
+  "title": "目次",
+  "segments": [
+    {
+      "index": 0,
+      "source": "目次",
+      "kind": "text",
+      "target": "目录",
+      "anchor": "tn2_0",
+      "cont": false,
+      "meta": {}
+    },
+    {
+      "index": 1,
+      "source": "雪国",
+      "kind": "text",
+      "target": "雪国",
+      "anchor": "tn2_1",
+      "cont": false,
+      "meta": {}
+    },
+    {
+      "index": 2,
+      "source": "注釈",
+      "kind": "text",
+      "target": "注释",
+      "anchor": "tn2_2",
+      "cont": false,
+      "meta": {}
+    }
+  ],
+  "href": "OEBPS/text00002.html",
+  "template": "<!DOCTYPE html PUBLIC \"-//W3C//DTD XHTML 1.0 Strict//EN\" \"http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd\">\n<html class=\"vrtl\" lang=\"ja\" xml:lang=\"ja\" xmlns=\"http://www.w3.org/1999/xhtml\" xmlns:epub=\"http://www.idpf.org/2007/ops\">\n<head><meta charset=\"utf-8\"/>\n<title>雪国</title>\n<link href=\"flow0005.css\" rel=\"stylesheet\" type=\"text/css\"/>\n</head>\n<body class=\"p-toc\">\n<div class=\"main start-2em\">\n<p data-tn-id=\"tn2_0\">　<span class=\"font-1em30\">目次</span>\n</p>\n<p><br/>\n</p>\n<p><br/>\n</p>\n<p data-tn-id=\"tn2_1\">\n<a href=\"text00004.html#toc-001\">\n<span class=\"mfont font-1em10\">雪国</span>\n</a>\n</p>\n<p data-tn-id=\"tn2_2\">　<a href=\"text00007.html#toc-002\">\n<span class=\"mfont font-1em10\">注釈</span>\n</a>\n</p>\n</div>\n</body>\n</html>\n",
+  "meta": {
+    "source_digest": "本章为作品目录与注释部分，无具体情节推进。",
+    "review_issues": [],
+    "backtranslation_issues": []
+  }
+}

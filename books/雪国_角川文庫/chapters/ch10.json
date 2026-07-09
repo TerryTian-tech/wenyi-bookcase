@@ -1,0 +1,121 @@
+{
+  "index": 10,
+  "title": "奥付",
+  "segments": [
+    {
+      "index": 0,
+      "source": "雪\r\n 国",
+      "kind": "text",
+      "target": "雪国",
+      "anchor": "tn10_0",
+      "cont": false,
+      "meta": {}
+    },
+    {
+      "index": 1,
+      "source": "川\r\n 端\r\n 康\r\n 成",
+      "kind": "text",
+      "target": "川端康成",
+      "anchor": "tn10_1",
+      "cont": false,
+      "meta": {}
+    },
+    {
+      "index": 2,
+      "source": "平成25年6月25日　発行",
+      "kind": "text",
+      "target": "平成二十五年六月二十五日　发行",
+      "anchor": "tn10_2",
+      "cont": false,
+      "meta": {}
+    },
+    {
+      "index": 3,
+      "source": "発行者　宍戸健司",
+      "kind": "text",
+      "target": "发行者　宍户健司",
+      "anchor": "tn10_3",
+      "cont": false,
+      "meta": {}
+    },
+    {
+      "index": 4,
+      "source": "発行所　株式会社角川書店",
+      "kind": "text",
+      "target": "发行所　株式会社角川书店",
+      "anchor": "tn10_4",
+      "cont": false,
+      "meta": {}
+    },
+    {
+      "index": 5,
+      "source": "〒102-8078　東京都千代田区富士見2-13-3",
+      "kind": "text",
+      "target": "〒102-8078　东京都千代田区富士见二丁目十三番三号",
+      "anchor": "tn10_5",
+      "cont": false,
+      "meta": {}
+    },
+    {
+      "index": 6,
+      "source": "http://www.kadokawa.co.jp/",
+      "kind": "text",
+      "target": "http://www.kadokawa.co.jp/",
+      "anchor": "tn10_6",
+      "cont": false,
+      "meta": {}
+    },
+    {
+      "index": 7,
+      "source": "(C) Kaori KAWABATA 1935, 1966, 1993",
+      "kind": "text",
+      "target": "© Kaori KAWABATA 1935, 1966, 1993",
+      "anchor": "tn10_7",
+      "cont": false,
+      "meta": {}
+    },
+    {
+      "index": 8,
+      "source": "本電子書籍は下記にもとづいて制作しました",
+      "kind": "text",
+      "target": "本电子书依据下列版本制作",
+      "anchor": "tn10_8",
+      "cont": false,
+      "meta": {}
+    },
+    {
+      "index": 9,
+      "source": "角川文庫『雪国』昭和31年4月20日初版発行",
+      "kind": "text",
+      "target": "角川文库《雪国》昭和三十一年四月二十日初版发行",
+      "anchor": "tn10_9",
+      "cont": false,
+      "meta": {}
+    },
+    {
+      "index": 10,
+      "source": "平成24年4月27日旧版66版発行",
+      "kind": "text",
+      "target": "平成二十四年四月二十七日旧版第六十六版发行",
+      "anchor": "tn10_10",
+      "cont": false,
+      "meta": {}
+    },
+    {
+      "index": 11,
+      "source": "平成25年6月20日改版初版発行",
+      "kind": "text",
+      "target": "平成二十五年六月二十日改版初版发行",
+      "anchor": "tn10_11",
+      "cont": false,
+      "meta": {}
+    }
+  ],
+  "href": "OEBPS/text00010.html",
+  "template": "<!DOCTYPE html PUBLIC \"-//W3C//DTD XHTML 1.0 Strict//EN\" \"http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd\">\n<html class=\"hltr\" lang=\"ja\" xml:lang=\"ja\" xmlns=\"http://www.w3.org/1999/xhtml\" xmlns:epub=\"http://www.idpf.org/2007/ops\">\n<head><meta charset=\"utf-8\"/>\n<title>雪国</title>\n<link href=\"flow0005.css\" rel=\"stylesheet\" type=\"text/css\"/>\n</head>\n<body class=\"p-colophon\">\n<div class=\"main\">\n<div class=\"book-title\">\n<div class=\"book-title-main mfont\">\n<p data-tn-id=\"tn10_0\">\n<ruby>雪<rt>ゆき</rt>\r\n 国<rt>ぐに</rt>\n</ruby>\n</p>\n</div>\n</div>\n<div class=\"author mfont\">\n<p data-tn-id=\"tn10_1\">\n<ruby>川<rt>かわ</rt>\r\n 端<rt>ばた</rt>\r\n 康<rt>やす</rt>\r\n 成<rt>なり</rt>\n</ruby>\n</p>\n</div>\n<div class=\"label\">\n<p class=\"label-logo\"><img alt=\"\" src=\"Image00009.gif\"/>\n</p>\n</div>\n<div class=\"release-date\">\n<p data-tn-id=\"tn10_2\">平成25年6月25日　発行</p>\n</div>\n<div class=\"publisher-data\">\n<p class=\"publish-person\" data-tn-id=\"tn10_3\">発行者　宍戸健司</p>\n<p class=\"publish-company\" data-tn-id=\"tn10_4\">発行所　株式会社角川書店</p>\n<p class=\"publish-address\" data-tn-id=\"tn10_5\">〒102-8078　東京都千代田区富士見2-13-3</p>\n<p class=\"publish-url\" data-tn-id=\"tn10_6\">http://www.kadokawa.co.jp/</p>\n</div>\n<div class=\"copyright\">\n<p data-tn-id=\"tn10_7\">(C) Kaori KAWABATA 1935, 1966, 1993</p>\n</div>\n<div class=\"original-books\">\n<p data-tn-id=\"tn10_8\">本電子書籍は下記にもとづいて制作しました</p>\n<p class=\"original-first-edition\" data-tn-id=\"tn10_9\">角川文庫『雪国』昭和31年4月20日初版発行</p>\n<p class=\"original-used-edition\" data-tn-id=\"tn10_10\">平成24年4月27日旧版66版発行</p>\n<p class=\"original-used-edition\" data-tn-id=\"tn10_11\">平成25年6月20日改版初版発行</p>\n</div>\n</div>\n</body>\n</html>\n",
+  "meta": {
+    "source_digest": "本章为《雪国》的版权页，无实际故事情节。记载了发行者、出版社、版权信息及版本沿革等出版信息。",
+    "review_issues": [],
+    "backtranslation_issues": []
+  }
+}

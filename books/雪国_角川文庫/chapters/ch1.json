@@ -1,0 +1,67 @@
+{
+  "index": 1,
+  "title": "ご利用上の注意",
+  "segments": [
+    {
+      "index": 0,
+      "source": "本作品の全部または一部を無断で複製、転載、配信、送信したり、ホームページ上に転載することを禁止します。また、本作品の内容を無断で改変、改ざん等を行うことも禁止します。",
+      "kind": "text",
+      "target": "未经许可，严禁复制、转载、分发、传输本作品的全部或部分内容，亦不得转载至主页。同时，严禁擅自篡改、伪造本作品内容。",
+      "anchor": "tn1_0",
+      "cont": false,
+      "meta": {}
+    },
+    {
+      "index": 1,
+      "source": "本作品購入時にご承諾いただいた規約により、有償・無償にかかわらず本作品を第三者に譲渡することはできません。",
+      "kind": "text",
+      "target": "基于购买本作品时您已同意的条款，无论有偿或无偿，均不得将本作品转让予第三方。",
+      "anchor": "tn1_1",
+      "cont": false,
+      "meta": {}
+    },
+    {
+      "index": 2,
+      "source": "本作品を示すサムネイルなどのイメージ画像は、再ダウンロード時に予告なく変更される場合があります。",
+      "kind": "text",
+      "target": "本作品的缩略图等示意图片，重新下载时可能不经预告即发生变更。",
+      "anchor": "tn1_2",
+      "cont": false,
+      "meta": {}
+    },
+    {
+      "index": 3,
+      "source": "本作品は縦書きでレイアウトされています。",
+      "kind": "text",
+      "target": "本作品采用竖向排版。",
+      "anchor": "tn1_3",
+      "cont": false,
+      "meta": {}
+    },
+    {
+      "index": 4,
+      "source": "また、ご覧になるリーディングシステムにより、表示の差が認められることがあります。",
+      "kind": "text",
+      "target": "此外，因阅读系统不同，显示可能存在差异。",
+      "anchor": "tn1_4",
+      "cont": false,
+      "meta": {}
+    },
+    {
+      "index": 5,
+      "source": "本文中に「＊」が付されている箇所には注釈があります。その箇所を選択すると、該当する注釈が表示されます。",
+      "kind": "text",
+      "target": "正文中标注“＊”之处附有注释。选中该处，即可显示相应注释。",
+      "anchor": "tn1_5",
+      "cont": false,
+      "meta": {}
+    }
+  ],
+  "href": "OEBPS/text00001.html",
+  "template": "<!DOCTYPE html PUBLIC \"-//W3C//DTD XHTML 1.0 Strict//EN\" \"http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd\">\n<html class=\"vrtl\" lang=\"ja\" xml:lang=\"ja\" xmlns=\"http://www.w3.org/1999/xhtml\" xmlns:epub=\"http://www.idpf.org/2007/ops\">\n<head><meta charset=\"utf-8\"/>\n<title>ご利用上の注意</title>\n<link href=\"flow0005.css\" rel=\"stylesheet\" type=\"text/css\"/>\n</head>\n<body class=\"p-caution\">\n<div class=\"main\">\n<p data-tn-id=\"tn1_0\">本作品の全部または一部を無断で複製、転載、配信、送信したり、ホームページ上に転載することを禁止します。また、本作品の内容を無断で改変、改ざん等を行うことも禁止します。</p>\n<p data-tn-id=\"tn1_1\">本作品購入時にご承諾いただいた規約により、有償・無償にかかわらず本作品を第三者に譲渡することはできません。</p>\n<p data-tn-id=\"tn1_2\">本作品を示すサムネイルなどのイメージ画像は、再ダウンロード時に予告なく変更される場合があります。</p>\n<p><br/>\n</p>\n<p class=\"caution-vertical\" data-tn-id=\"tn1_3\">本作品は縦書きでレイアウトされています。</p>\n<p data-tn-id=\"tn1_4\">また、ご覧になるリーディングシステムにより、表示の差が認められることがあります。</p>\n<p><br/>\n</p>\n<p class=\"caution-cyusyaku\" data-tn-id=\"tn1_5\">本文中に「＊」が付されている箇所には注釈があります。その箇所を選択すると、該当する注釈が表示されます。</p>\n</div>\n</body>\n</html>\n",
+  "meta": {
+    "source_digest": "该章节未包含实际剧情内容，仅为版权声明、阅读说明和排版提示。无关键情节、人物或信息转折。",
+    "review_issues": [],
+    "backtranslation_issues": []
+  }
+}

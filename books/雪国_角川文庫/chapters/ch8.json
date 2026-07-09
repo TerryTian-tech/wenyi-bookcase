@@ -1,0 +1,40 @@
+{
+  "index": 8,
+  "title": "雪国",
+  "segments": [
+    {
+      "index": 0,
+      "source": "本書は著者ならびに著作権継承者の了解を得て、現代表記法により、原文を新字・新かなづかいにしたほか、漢字の一部をひらがなに改めました。",
+      "kind": "text",
+      "target": "本书承蒙作者及版权继承人允准，依据现代表记法，除将原文改订为新字新假名外，亦将部分汉字转写为平假名。",
+      "anchor": "tn8_0",
+      "cont": false,
+      "meta": {}
+    },
+    {
+      "index": 1,
+      "source": "本書中には、女中、乞食、按摩、気ちがい、妾、百姓、白痴など、今日の人権擁護の見地に照らして、不適切と思われる語句や表現がありますが、著者自身に差別的意図はなく、また著者が故人であること、作品自体の文学性・芸術性を考え合わせ、原文のままといたしました。",
+      "kind": "text",
+      "target": "本书中出现了“女佣”“乞丐”“按摩师”“疯子”“妾”“百姓”“白痴”等，自今日人权观之或有不妥的词语与表述，然作者本人并无歧视之意，且作者已然辞世，作品之文学性与艺术性亦须尊重，故谨依原文样貌保留。",
+      "anchor": "tn8_1",
+      "cont": false,
+      "meta": {}
+    },
+    {
+      "index": 2,
+      "source": "（編集部）",
+      "kind": "text",
+      "target": "（编辑部）",
+      "anchor": "tn8_2",
+      "cont": false,
+      "meta": {}
+    }
+  ],
+  "href": "OEBPS/text00008.html",
+  "template": "<!DOCTYPE html PUBLIC \"-//W3C//DTD XHTML 1.0 Strict//EN\" \"http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd\">\n<html class=\"vrtl\" lang=\"ja\" xml:lang=\"ja\" xmlns=\"http://www.w3.org/1999/xhtml\" xmlns:epub=\"http://www.idpf.org/2007/ops\">\n<head><meta charset=\"utf-8\"/>\n<title>雪国</title>\n<link href=\"flow0005.css\" rel=\"stylesheet\" type=\"text/css\"/>\n</head>\n<body class=\"p-text\">\n<div class=\"main start-2em\">\n<p><br/>\n</p>\n<p><br/>\n</p>\n<p><br/>\n</p>\n<div class=\"mfont font-0em85\">\n<p data-tn-id=\"tn8_0\">本書は著者ならびに著作権継承者の了解を得て、現代表記法により、原文を新字・新かなづかいにしたほか、漢字の一部をひらがなに改めました。</p>\n<p data-tn-id=\"tn8_1\">本書中には、女中、乞食、按摩、気ちがい、妾、百姓、白痴など、今日の人権擁護の見地に照らして、不適切と思われる語句や表現がありますが、著者自身に差別的意図はなく、また著者が故人であること、作品自体の文学性・芸術性を考え合わせ、原文のままといたしました。</p>\n</div>\n<div class=\"align-end\">\n<p data-tn-id=\"tn8_2\">\n<span class=\"mfont font-0em85\">（編集部）</span>\n</p>\n</div>\n</div>\n</body>\n</html>\n",
+  "meta": {
+    "source_digest": "本章为编辑部的说明，交代本书经作者及版权继承人同意，采用现代表记法（新字、新假名），并将部分汉字改为平假名。同时指出，书中包含“女中”“乞食”“按摩”“気ちがい”“妾”“百姓”“白痴”等今日人権保护角度可能不恰当的词语，但作者并无歧视意图，且因作者已故及作品文学性、艺术性考量，故保留原文原貌。",
+    "review_issues": [],
+    "backtranslation_issues": []
+  }
+}
